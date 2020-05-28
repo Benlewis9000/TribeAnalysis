@@ -1,0 +1,60 @@
+[ally]PhF[/ally]
+[table]
+[**]Player[||]Points[||]Income[||]Ratio[/**]
+[*][player]fox24040[/player][|]7472[|]28552[|]3.00
+[*][player]Hannula9[/player][|]2971[|]42668[|]14.00
+[*][player]stanton95[/player][|]2156[|]31679[|]14.00
+[*][player]Spookie Pie[/player][|]1889[|]27644[|]14.00
+[*][player]norrrre[/player][|]4377[|]68255[|]15.00
+[*][player]hulija[/player][|]2842[|]44842[|]15.00
+[*][player]Campbrinx[/player][|]6904[|]116334[|]16.00
+[*][player]The Only Element[/player][|]4337[|]71542[|]16.00
+[*][player]Logofatul Mocofan[/player][|]1023[|]17628[|]17.00
+[*][player]Butnskala[/player][|]2085[|]41265[|]19.00
+[*][player]R2D2444[/player][|]1182[|]24702[|]20.00
+[*][player]GrandAutismo[/player][|]1379[|]32709[|]23.00
+[*][player]Green Dwarf IV[/player][|]5310[|]134744[|]25.00
+[*][player]nintendope[/player][|]1999[|]55016[|]27.00
+[*][player]CDarkmoon[/player][|]1842[|]49899[|]27.00
+[*][player]awesomepeoplem[/player][|]1778[|]51389[|]28.00
+[*][player]42mitch[/player][|]2498[|]73545[|]29.00
+[*][player]Mr Zyzz[/player][|]1496[|]45200[|]30.00
+[/table]
+[ally]PhN[/ally]
+[table]
+[**]Player[||]Points[||]Income[||]Ratio[/**]
+[*][player]I-TeeqoZz[/player][|]2863[|]43435[|]15.00
+[*][player]Ittre[/player][|]1046[|]18055[|]17.00
+[*][player]Grandsmack[/player][|]1425[|]27333[|]19.00
+[*][player]Trevett10[/player][|]1153[|]24984[|]21.00
+[*][player]DrDeath[/player][|]1144[|]26104[|]22.00
+[*][player]luckys11[/player][|]1273[|]29788[|]23.00
+[*][player]bladedin[/player][|]1600[|]40564[|]25.00
+[*][player]Fortress502[/player][|]2702[|]75050[|]27.00
+[*][player]CommanderDuterte[/player][|]1625[|]44205[|]27.00
+[*][player]godjenton1[/player][|]1206[|]32719[|]27.00
+[*][player]BillyBobTheGreat[/player][|]1390[|]40690[|]29.00
+[/table]
+[ally]PhW[/ally]
+[table]
+[**]Player[||]Points[||]Income[||]Ratio[/**]
+[*][player]simen. l[/player][|]832[|]10396[|]12.00
+[*][player]matijaRULES[/player][|]1105[|]15862[|]14.00
+[*][player]aniadur[/player][|]925[|]13284[|]14.00
+[*][player]rickie23[/player][|]939[|]14427[|]15.00
+[*][player]X-Corp[/player][|]1022[|]16532[|]16.00
+[*][player]Lilleauren12g[/player][|]841[|]13502[|]16.00
+[*][player]repo[/player][|]3008[|]51493[|]17.00
+[*][player]FreedomRunner[/player][|]1340[|]24783[|]18.00
+[*][player]Heinekens Law[/player][|]1908[|]41460[|]21.00
+[*][player]Lordlauritz[/player][|]2081[|]47853[|]22.00
+[*][player]Reedy1871[/player][|]1537[|]38317[|]24.00
+[*][player]SilverReign[/player][|]1174[|]30495[|]25.00
+[*][player]supernero100[/player][|]1631[|]42711[|]26.00
+[*][player]camolot457656[/player][|]1027[|]27352[|]26.00
+[*][player]alvin100[/player][|]1300[|]36634[|]28.00
+[*][player]The Number of The Beast[/player][|]593[|]17107[|]28.00
+[*][player]dipeex[/player][|]1723[|]50120[|]29.00
+[*][player]Lord marian piciu[/player][|]1147[|]33962[|]29.00
+[*][player]Fymig[/player][|]2062[|]63381[|]30.00
+[/table]
